@@ -7,5 +7,5 @@
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
-local.properties
+#local.properties
 .settings/
